@@ -1,0 +1,2 @@
+W Pythonie mozna tworzyc zaawansowane programy
+W Pythonie mozna pisac fajne skrypty
